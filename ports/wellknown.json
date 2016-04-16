@@ -1,0 +1,2109 @@
+[
+   {
+      "id": 0,
+      "port": 1,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/TCP_Port_Service_Multiplexer\" title=\"TCP Port Service Multiplexer\">TCP Port Service Multiplexer</a> (TCPMUX)",
+      "official": true
+   },
+   {
+      "id": 1,
+      "port": 2,
+      "tcp": true,
+      "udp": true,
+      "desc": "CompressNET<sup id=\"cite_ref-compressnet_5-0\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-compressnet-5\">[5]</a></sup> Management Utility<sup id=\"cite_ref-6\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-6\">[6]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 2,
+      "port": 3,
+      "tcp": true,
+      "udp": true,
+      "desc": "CompressNET<sup id=\"cite_ref-compressnet_5-1\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-compressnet-5\">[5]</a></sup> Compression Process<sup id=\"cite_ref-7\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-7\">[7]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 3,
+      "port": 5,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Remote_job_entry\" title=\"Remote job entry\">Remote job entry</a>",
+      "official": true
+   },
+   {
+      "id": 4,
+      "port": 7,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Echo_Protocol\" title=\"Echo Protocol\">Echo Protocol</a>",
+      "official": true
+   },
+   {
+      "id": 5,
+      "port": 9,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Discard_Protocol\" title=\"Discard Protocol\">Discard Protocol</a>",
+      "official": true
+   },
+   {
+      "id": 6,
+      "port": 9,
+      "tcp": false,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Wake-on-LAN\" title=\"Wake-on-LAN\">Wake-on-LAN</a>",
+      "official": false
+   },
+   {
+      "id": 7,
+      "port": 11,
+      "tcp": true,
+      "udp": true,
+      "desc": "Active Users (<a href=\"https://en.wikipedia.org/wiki/Systat_(protocol)\" title=\"Systat (protocol)\">systat</a> service)<sup id=\"cite_ref-systat-netstat_8-0\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-systat-netstat-8\">[8]</a></sup><sup id=\"cite_ref-RFC866_9-0\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-RFC866-9\">[9]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 8,
+      "port": 13,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Daytime_Protocol\" title=\"Daytime Protocol\">Daytime Protocol</a> (<a class=\"external mw-magiclink-rfc\" rel=\"nofollow\" href=\"https://en.wikipedia.org//tools.ietf.org/html/rfc867\">RFC 867</a>)",
+      "official": true
+   },
+   {
+      "id": 9,
+      "port": 15,
+      "tcp": true,
+      "udp": true,
+      "desc": "Previously <a href=\"https://en.wikipedia.org/wiki/Netstat\" title=\"Netstat\">netstat</a> service<sup id=\"cite_ref-systat-netstat_8-1\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-systat-netstat-8\">[8]</a></sup>",
+      "official": false
+   },
+   {
+      "id": 10,
+      "port": 17,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/QOTD\" title=\"QOTD\">Quote Of The Day</a>",
+      "official": true
+   },
+   {
+      "id": 11,
+      "port": 18,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Message_Send_Protocol\" title=\"Message Send Protocol\" class=\"mw-redirect\">Message Send Protocol</a>",
+      "official": false
+   },
+   {
+      "id": 12,
+      "port": 19,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Character_Generator_Protocol\" title=\"Character Generator Protocol\">Character Generator Protocol</a>",
+      "official": true
+   },
+   {
+      "id": 13,
+      "port": 20,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/FTP\" title=\"FTP\" class=\"mw-redirect\">FTP</a> data transfer",
+      "official": true
+   },
+   {
+      "id": 14,
+      "port": 23,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Telnet\" title=\"Telnet\">Telnet</a> protocol—unencrypted text communications",
+      "official": true
+   },
+   {
+      "id": 15,
+      "port": 24,
+      "tcp": true,
+      "udp": true,
+      "desc": "Priv-mail, any private <a href=\"https://en.wikipedia.org/wiki/Email\" title=\"Email\">mail</a> system",
+      "official": true
+   },
+   {
+      "id": 16,
+      "port": 25,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol\" title=\"Simple Mail Transfer Protocol\">Simple Mail Transfer Protocol</a> (SMTP), used for e-mail routing between mail servers",
+      "official": true
+   },
+   {
+      "id": 17,
+      "port": 27,
+      "tcp": true,
+      "udp": true,
+      "desc": "NSW User System FE",
+      "official": true
+   },
+   {
+      "id": 18,
+      "port": 29,
+      "tcp": true,
+      "udp": true,
+      "desc": "MSG ICP",
+      "official": true
+   },
+   {
+      "id": 19,
+      "port": 33,
+      "tcp": true,
+      "udp": true,
+      "desc": "Display Support Protocol",
+      "official": true
+   },
+   {
+      "id": 20,
+      "port": 35,
+      "tcp": true,
+      "udp": true,
+      "desc": "Any private <a href=\"https://en.wikipedia.org/wiki/Print_server\" title=\"Print server\">printer server</a> protocol",
+      "official": true
+   },
+   {
+      "id": 21,
+      "port": 37,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Time_Protocol\" title=\"Time Protocol\">Time Protocol</a>",
+      "official": true
+   },
+   {
+      "id": 22,
+      "port": 39,
+      "tcp": true,
+      "udp": true,
+      "desc": "Resource Location Protocol<sup id=\"cite_ref-autogenerated3_10-0\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-autogenerated3-10\">[10]</a></sup> (RLP)—used for determining the location of higher level <a href=\"https://en.wikipedia.org/wiki/Service_(systems_architecture)\" title=\"Service (systems architecture)\">services</a> from <a href=\"https://en.wikipedia.org/wiki/Host_(network)\" title=\"Host (network)\">hosts</a> on a <a href=\"https://en.wikipedia.org/wiki/Computer_network\" title=\"Computer network\">network</a>",
+      "official": true
+   },
+   {
+      "id": 23,
+      "port": 42,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/ARPA_Host_Name_Server_Protocol\" title=\"ARPA Host Name Server Protocol\">ARPA Host Name Server Protocol</a>",
+      "official": true
+   },
+   {
+      "id": 24,
+      "port": 42,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Windows_Internet_Name_Service\" title=\"Windows Internet Name Service\">Windows Internet Name Service</a>",
+      "official": false
+   },
+   {
+      "id": 25,
+      "port": 43,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/WHOIS\" title=\"WHOIS\">WHOIS</a> protocol",
+      "official": true
+   },
+   {
+      "id": 26,
+      "port": 47,
+      "tcp": true,
+      "udp": true,
+      "desc": "NI FTP",
+      "official": true
+   },
+   {
+      "id": 27,
+      "port": 49,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/TACACS%2B\" title=\"TACACS+\" class=\"mw-redirect\">TACACS+</a> Login Host protocol",
+      "official": true
+   },
+   {
+      "id": 28,
+      "port": 50,
+      "tcp": true,
+      "udp": true,
+      "desc": "ESP<sup id=\"cite_ref-11\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-11\">[11]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 29,
+      "port": 51,
+      "tcp": true,
+      "udp": true,
+      "desc": "IMP Logical Address Maintenance",
+      "official": true
+   },
+   {
+      "id": 30,
+      "port": 52,
+      "tcp": true,
+      "udp": true,
+      "desc": "XNS (<a href=\"https://en.wikipedia.org/wiki/Xerox_Network_Systems\" title=\"Xerox Network Systems\">Xerox Network Systems</a>) Time Protocol",
+      "official": true
+   },
+   {
+      "id": 31,
+      "port": 53,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Domain_Name_System\" title=\"Domain Name System\">Domain Name System</a> (DNS)",
+      "official": true
+   },
+   {
+      "id": 32,
+      "port": 54,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Xerox_Network_Systems\" title=\"Xerox Network Systems\">Xerox Network Systems</a> (XNS) clearinghouse",
+      "official": true
+   },
+   {
+      "id": 33,
+      "port": 55,
+      "tcp": true,
+      "udp": true,
+      "desc": "ISI Graphics Language (ISI-GL)",
+      "official": true
+   },
+   {
+      "id": 34,
+      "port": 56,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Xerox_Network_Systems\" title=\"Xerox Network Systems\">Xerox Network Systems</a> (XNS) authentication",
+      "official": true
+   },
+   {
+      "id": 35,
+      "port": 56,
+      "tcp": true,
+      "udp": true,
+      "desc": "Route Access Protocol (RAP)<sup id=\"cite_ref-12\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-12\">[12]</a></sup>",
+      "official": false
+   },
+   {
+      "id": 36,
+      "port": 57,
+      "tcp": true,
+      "udp": true,
+      "desc": "Any private terminal access",
+      "official": true
+   },
+   {
+      "id": 37,
+      "port": 58,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Xerox_Network_Systems\" title=\"Xerox Network Systems\">Xerox Network Systems</a> (XNS) Mail",
+      "official": true
+   },
+   {
+      "id": 38,
+      "port": 64,
+      "tcp": true,
+      "udp": true,
+      "desc": "CI (<a href=\"https://en.wikipedia.org/wiki/Travelport\" title=\"Travelport\">Travelport</a>) (formerly Covia) Comms Integrator",
+      "official": true
+   },
+   {
+      "id": 39,
+      "port": 67,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Bootstrap_Protocol\" title=\"Bootstrap Protocol\">Bootstrap Protocol</a> (BOOTP) server; also used by <a href=\"https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol\" title=\"Dynamic Host Configuration Protocol\">Dynamic Host Configuration Protocol</a> (DHCP)",
+      "official": true
+   },
+   {
+      "id": 40,
+      "port": 68,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Bootstrap_Protocol\" title=\"Bootstrap Protocol\">Bootstrap Protocol</a> (BOOTP) client; also used by <a href=\"https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol\" title=\"Dynamic Host Configuration Protocol\">Dynamic Host Configuration Protocol</a> (DHCP)",
+      "official": true
+   },
+   {
+      "id": 41,
+      "port": 69,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Trivial_File_Transfer_Protocol\" title=\"Trivial File Transfer Protocol\">Trivial File Transfer Protocol</a> (TFTP)",
+      "official": true
+   },
+   {
+      "id": 42,
+      "port": 70,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Gopher_(protocol)\" title=\"Gopher (protocol)\">Gopher</a> protocol",
+      "official": true
+   },
+   {
+      "id": 43,
+      "port": {
+         "start": 71,
+         "end": 74
+      },
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/NETRJS\" title=\"NETRJS\" class=\"mw-redirect\">NETRJS</a> protocol",
+      "official": true
+   },
+   {
+      "id": 44,
+      "port": 77,
+      "tcp": true,
+      "udp": true,
+      "desc": "Any private Remote job entry",
+      "official": true
+   },
+   {
+      "id": 45,
+      "port": 79,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Finger_protocol\" title=\"Finger protocol\">Finger protocol</a>",
+      "official": true
+   },
+   {
+      "id": 46,
+      "port": 80,
+      "tcp": false,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/QUIC\" title=\"QUIC\">QUIC</a> (from <a href=\"https://en.wikipedia.org/wiki/Chromium_(web_browser)\" title=\"Chromium (web browser)\">Chromium</a>) for HTTP",
+      "official": false
+   },
+   {
+      "id": 47,
+      "port": 81,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/XeroBank_Browser\" title=\"XeroBank Browser\" class=\"mw-redirect\">Torpark</a> <a href=\"https://en.wikipedia.org/wiki/Onion_routing\" title=\"Onion routing\">onion routing</a>",
+      "official": false
+   },
+   {
+      "id": 48,
+      "port": 82,
+      "tcp": false,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/XeroBank_Browser\" title=\"XeroBank Browser\" class=\"mw-redirect\">Torpark</a> control",
+      "official": false
+   },
+   {
+      "id": 49,
+      "port": 88,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Kerberos_(protocol)\" title=\"Kerberos (protocol)\">Kerberos</a> authentication system",
+      "official": true
+   },
+   {
+      "id": 50,
+      "port": 90,
+      "tcp": true,
+      "udp": true,
+      "desc": "dnsix (<a href=\"https://en.wikipedia.org/wiki/United_States_Department_of_Defense\" title=\"United States Department of Defense\">DoD</a> Network Security for Information Exchange) Security Attribute Token Map",
+      "official": true
+   },
+   {
+      "id": 51,
+      "port": 90,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/PointCast_(dotcom)\" title=\"PointCast (dotcom)\">PointCast (dotcom)</a>",
+      "official": false
+   },
+   {
+      "id": 52,
+      "port": 99,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/WIP_Message\" title=\"WIP Message\" class=\"mw-redirect\">WIP Message</a> protocol",
+      "official": false
+   },
+   {
+      "id": 53,
+      "port": 100,
+      "tcp": false,
+      "udp": true,
+      "desc": "CyberGate RAT protocol",
+      "official": false
+   },
+   {
+      "id": 54,
+      "port": 101,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/History_of_the_Internet#NIC.2C_InterNIC.2C_IANA_and_ICANN\" title=\"History of the Internet\">NIC</a> <a href=\"https://en.wikipedia.org/wiki/Hostname\" title=\"Hostname\">host name</a>",
+      "official": true
+   },
+   {
+      "id": 55,
+      "port": 102,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/International_Organization_for_Standardization\" title=\"International Organization for Standardization\">ISO</a> Transport Service Access Point (<a href=\"https://en.wikipedia.org/wiki/TSAP\" title=\"TSAP\" class=\"mw-redirect\">TSAP</a>) Class 0 protocol;<sup id=\"cite_ref-14\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-14\">[14]</a></sup> also used by <a href=\"https://en.wikipedia.org/wiki/Digital_Equipment_Corporation\" title=\"Digital Equipment Corporation\">Digital Equipment Corporation</a> <a href=\"https://en.wikipedia.org/wiki/DECnet\" title=\"DECnet\">DECnet</a> (Phase V+) over TCP/IP",
+      "official": true
+   },
+   {
+      "id": 56,
+      "port": 104,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/American_College_of_Radiology\" title=\"American College of Radiology\">ACR</a>/<a href=\"https://en.wikipedia.org/wiki/National_Electrical_Manufacturers_Association\" title=\"National Electrical Manufacturers Association\">NEMA</a> <a href=\"https://en.wikipedia.org/wiki/Digital_Imaging_and_Communications_in_Medicine\" title=\"Digital Imaging and Communications in Medicine\" class=\"mw-redirect\">Digital Imaging and Communications in Medicine</a> (DICOM)",
+      "official": true
+   },
+   {
+      "id": 57,
+      "port": 105,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/CCSO_Nameserver\" title=\"CCSO Nameserver\">CCSO Nameserver Protocol (Qi/Ph)</a>",
+      "official": true
+   },
+   {
+      "id": 58,
+      "port": 107,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Rtelnet\" title=\"Rtelnet\">Remote Telnet Service</a><sup id=\"cite_ref-15\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-15\">[15]</a></sup> protocol",
+      "official": true
+   },
+   {
+      "id": 59,
+      "port": 108,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/IBM_Systems_Network_Architecture\" title=\"IBM Systems Network Architecture\">SNA</a> Gateway Access Server<sup id=\"cite_ref-IANA_1-2\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-IANA-1\">[1]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 60,
+      "port": 109,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Post_Office_Protocol\" title=\"Post Office Protocol\">Post Office Protocol</a> v2 (POP2)",
+      "official": true
+   },
+   {
+      "id": 61,
+      "port": 110,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Post_Office_Protocol\" title=\"Post Office Protocol\">Post Office Protocol</a> v3 (POP3)",
+      "official": true
+   },
+   {
+      "id": 62,
+      "port": 111,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Open_Network_Computing_Remote_Procedure_Call\" title=\"Open Network Computing Remote Procedure Call\">ONC RPC</a> (<a href=\"https://en.wikipedia.org/wiki/Sun_Microsystems\" title=\"Sun Microsystems\">Sun</a> <a href=\"https://en.wikipedia.org/wiki/Remote_Procedure_Call\" title=\"Remote Procedure Call\" class=\"mw-redirect\">RPC</a>)",
+      "official": true
+   },
+   {
+      "id": 63,
+      "port": 113,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Ident_protocol\" title=\"Ident protocol\">Ident</a>, authentication service/identification protocol,<sup id=\"cite_ref-autogenerated1_16-0\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-autogenerated1-16\">[16]</a></sup> used by <a href=\"https://en.wikipedia.org/wiki/Internet_Relay_Chat\" title=\"Internet Relay Chat\">IRC</a> servers to identify users",
+      "official": true
+   },
+   {
+      "id": 64,
+      "port": 113,
+      "tcp": false,
+      "udp": true,
+      "desc": "Authentication Service<sup id=\"cite_ref-autogenerated1_16-1\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-autogenerated1-16\">[16]</a></sup> (auth)",
+      "official": true
+   },
+   {
+      "id": 65,
+      "port": 115,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Simple_File_Transfer_Protocol\" title=\"Simple File Transfer Protocol\" class=\"mw-redirect\">Simple File Transfer Protocol</a>",
+      "official": true
+   },
+   {
+      "id": 66,
+      "port": 118,
+      "tcp": true,
+      "udp": true,
+      "desc": "Structured Query Language (<a href=\"https://en.wikipedia.org/wiki/SQL\" title=\"SQL\">SQL</a>) Services",
+      "official": true
+   },
+   {
+      "id": 67,
+      "port": 119,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol\" title=\"Network News Transfer Protocol\">Network News Transfer Protocol</a> (NNTP), retrieval of newsgroup messages",
+      "official": true
+   },
+   {
+      "id": 68,
+      "port": 123,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Network_Time_Protocol\" title=\"Network Time Protocol\">Network Time Protocol</a> (NTP), used for time synchronization",
+      "official": true
+   },
+   {
+      "id": 69,
+      "port": 126,
+      "tcp": true,
+      "udp": true,
+      "desc": "Formerly <a href=\"https://en.wikipedia.org/wiki/Unisys\" title=\"Unisys\">Unisys</a> Unitary Login, renamed by Unisys to NXEdit. Used by Unisys Programmer's Workbench for Clearpath MCP, an IDE for <a href=\"https://en.wikipedia.org/wiki/Unisys_MCP_programming_languages\" title=\"Unisys MCP programming languages\">Unisys MCP software development</a>",
+      "official": true
+   },
+   {
+      "id": 70,
+      "port": 135,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Distributed_Computing_Environment\" title=\"Distributed Computing Environment\">DCE</a> <a href=\"https://en.wikipedia.org/wiki/Communication_endpoint\" title=\"Communication endpoint\">endpoint</a> resolution",
+      "official": true
+   },
+   {
+      "id": 71,
+      "port": 135,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Microsoft\" title=\"Microsoft\">Microsoft</a> EPMAP (End Point Mapper), also known as DCE/<a href=\"https://en.wikipedia.org/wiki/Remote_procedure_call\" title=\"Remote procedure call\">RPC</a> Locator service,<sup id=\"cite_ref-17\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-17\">[17]</a></sup> used to remotely manage services including <a href=\"https://en.wikipedia.org/wiki/DHCP_server\" title=\"DHCP server\" class=\"mw-redirect\">DHCP server</a>, <a href=\"https://en.wikipedia.org/wiki/Domain_Name_System\" title=\"Domain Name System\">DNS</a> server and <a href=\"https://en.wikipedia.org/wiki/Windows_Internet_Name_Service\" title=\"Windows Internet Name Service\">WINS</a>. Also used by <a href=\"https://en.wikipedia.org/wiki/Distributed_Component_Object_Model\" title=\"Distributed Component Object Model\">DCOM</a>",
+      "official": false
+   },
+   {
+      "id": 72,
+      "port": 137,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/NetBIOS\" title=\"NetBIOS\">NetBIOS</a> Name Service",
+      "official": true
+   },
+   {
+      "id": 73,
+      "port": 138,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/NetBIOS\" title=\"NetBIOS\">NetBIOS</a> Datagram Service",
+      "official": true
+   },
+   {
+      "id": 74,
+      "port": 139,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/NetBIOS\" title=\"NetBIOS\">NetBIOS</a> Session Service",
+      "official": true
+   },
+   {
+      "id": 75,
+      "port": 143,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol\" title=\"Internet Message Access Protocol\">Internet Message Access Protocol</a> (IMAP), management of email messages",
+      "official": true
+   },
+   {
+      "id": 76,
+      "port": 152,
+      "tcp": true,
+      "udp": true,
+      "desc": "Background File Transfer Program (BFTP)<sup id=\"cite_ref-18\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-18\">[18]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 77,
+      "port": 153,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Simple_Gateway_Monitoring_Protocol\" title=\"Simple Gateway Monitoring Protocol\">Simple Gateway Monitoring Protocol</a> (SGMP)",
+      "official": true
+   },
+   {
+      "id": 78,
+      "port": 156,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/SQL\" title=\"SQL\">SQL</a> Service",
+      "official": true
+   },
+   {
+      "id": 79,
+      "port": 158,
+      "tcp": true,
+      "udp": true,
+      "desc": "Distributed Mail Service Protocol (DMSP)<sup id=\"cite_ref-19\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-19\">[19]</a></sup>",
+      "official": false
+   },
+   {
+      "id": 80,
+      "port": 161,
+      "tcp": false,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol\" title=\"Simple Network Management Protocol\">Simple Network Management Protocol</a> (SNMP)",
+      "official": true
+   },
+   {
+      "id": 81,
+      "port": 162,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol\" title=\"Simple Network Management Protocol\">Simple Network Management Protocol</a> Trap (SNMPTRAP)<sup id=\"cite_ref-20\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-20\">[20]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 82,
+      "port": 170,
+      "tcp": true,
+      "udp": false,
+      "desc": "Print-srv, Network <a href=\"https://en.wikipedia.org/wiki/PostScript\" title=\"PostScript\">PostScript</a>",
+      "official": true
+   },
+   {
+      "id": 83,
+      "port": 175,
+      "tcp": true,
+      "udp": false,
+      "desc": "VMNET (IBM z/VM, z/OS &amp; z/VSE—Network Job Entry (NJE))",
+      "official": true
+   },
+   {
+      "id": 84,
+      "port": 177,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/X_Display_Manager_(implementation)\" title=\"X Display Manager (implementation)\" class=\"mw-redirect\">X Display Manager</a> Control Protocol (XDMCP)",
+      "official": true
+   },
+   {
+      "id": 85,
+      "port": 179,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Border_Gateway_Protocol\" title=\"Border Gateway Protocol\">Border Gateway Protocol</a> (BGP)",
+      "official": true
+   },
+   {
+      "id": 86,
+      "port": 194,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Internet_Relay_Chat\" title=\"Internet Relay Chat\">Internet Relay Chat</a> (IRC)",
+      "official": true
+   },
+   {
+      "id": 87,
+      "port": 199,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/SMUX\" title=\"SMUX\" class=\"mw-redirect\">SMUX</a>, <a href=\"https://en.wikipedia.org/wiki/SNMP\" title=\"SNMP\" class=\"mw-redirect\">SNMP</a> Unix Multiplexer",
+      "official": true
+   },
+   {
+      "id": 88,
+      "port": 201,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/AppleTalk\" title=\"AppleTalk\">AppleTalk</a> Routing Maintenance",
+      "official": true
+   },
+   {
+      "id": 89,
+      "port": 209,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Quick_Mail_Transfer_Protocol\" title=\"Quick Mail Transfer Protocol\">Quick Mail Transfer Protocol</a>",
+      "official": true
+   },
+   {
+      "id": 90,
+      "port": 210,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/ANSI\" title=\"ANSI\" class=\"mw-redirect\">ANSI</a> <a href=\"https://en.wikipedia.org/wiki/Z39.50\" title=\"Z39.50\">Z39.50</a>",
+      "official": true
+   },
+   {
+      "id": 91,
+      "port": 213,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Internetwork_Packet_Exchange\" title=\"Internetwork Packet Exchange\">Internetwork Packet Exchange</a> (IPX)",
+      "official": true
+   },
+   {
+      "id": 92,
+      "port": 218,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Message_posting_protocol\" title=\"Message posting protocol\">Message posting protocol</a> (MPP)",
+      "official": true
+   },
+   {
+      "id": 93,
+      "port": 220,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol\" title=\"Internet Message Access Protocol\">Internet Message Access Protocol</a> (IMAP), version 3",
+      "official": true
+   },
+   {
+      "id": 94,
+      "port": 259,
+      "tcp": true,
+      "udp": true,
+      "desc": "Efficient Short Remote Operations (ESRO)",
+      "official": true
+   },
+   {
+      "id": 95,
+      "port": 262,
+      "tcp": true,
+      "udp": true,
+      "desc": "Arcisdms",
+      "official": true
+   },
+   {
+      "id": 96,
+      "port": 264,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Border_Gateway_Multicast_Protocol\" title=\"Border Gateway Multicast Protocol\">Border Gateway Multicast Protocol</a> (BGMP)",
+      "official": true
+   },
+   {
+      "id": 97,
+      "port": 280,
+      "tcp": true,
+      "udp": true,
+      "desc": "http-mgmt",
+      "official": true
+   },
+   {
+      "id": 98,
+      "port": 300,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/ThinLinc\" title=\"ThinLinc\">ThinLinc</a> Web Access",
+      "official": false
+   },
+   {
+      "id": 99,
+      "port": 308,
+      "tcp": true,
+      "udp": false,
+      "desc": "Novastor Online Backup",
+      "official": true
+   },
+   {
+      "id": 100,
+      "port": 311,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Mac_OS_X_Server\" title=\"Mac OS X Server\" class=\"mw-redirect\">Mac OS X Server</a> Admin (officially <a href=\"https://en.wikipedia.org/wiki/AppleShare\" title=\"AppleShare\">AppleShare</a> IP Web administration)",
+      "official": true
+   },
+   {
+      "id": 101,
+      "port": 318,
+      "tcp": true,
+      "udp": true,
+      "desc": "PKIX <a href=\"https://en.wikipedia.org/wiki/Time_Stamp_Protocol\" title=\"Time Stamp Protocol\" class=\"mw-redirect\">Time Stamp Protocol</a> (TSP)",
+      "official": true
+   },
+   {
+      "id": 102,
+      "port": 319,
+      "tcp": false,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Precision_Time_Protocol\" title=\"Precision Time Protocol\">Precision Time Protocol</a> (PTP) event messages",
+      "official": true
+   },
+   {
+      "id": 103,
+      "port": 320,
+      "tcp": false,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Precision_Time_Protocol\" title=\"Precision Time Protocol\">Precision Time Protocol</a> (PTP) general messages",
+      "official": true
+   },
+   {
+      "id": 104,
+      "port": 350,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Mapping_of_Airline_Traffic_over_Internet_Protocol\" title=\"Mapping of Airline Traffic over Internet Protocol\">Mapping of Airline Traffic over Internet Protocol</a> (MATIP) type A",
+      "official": true
+   },
+   {
+      "id": 105,
+      "port": 351,
+      "tcp": true,
+      "udp": true,
+      "desc": "MATIP type B",
+      "official": true
+   },
+   {
+      "id": 106,
+      "port": 356,
+      "tcp": true,
+      "udp": true,
+      "desc": "cloanto-net-1 (used by Cloanto Amiga Explorer and VMs)",
+      "official": true
+   },
+   {
+      "id": 107,
+      "port": 366,
+      "tcp": true,
+      "udp": true,
+      "desc": "On-Demand Mail Relay (ODMR)",
+      "official": true
+   },
+   {
+      "id": 108,
+      "port": 369,
+      "tcp": true,
+      "udp": true,
+      "desc": "Rpc2portmap",
+      "official": true
+   },
+   {
+      "id": 109,
+      "port": 370,
+      "tcp": true,
+      "udp": false,
+      "desc": "codaauth2, Coda authentication server",
+      "official": true
+   },
+   {
+      "id": 110,
+      "port": 370,
+      "tcp": false,
+      "udp": true,
+      "desc": "codaauth2, Coda authentication server",
+      "official": true
+   },
+   {
+      "id": 111,
+      "port": 370,
+      "tcp": false,
+      "udp": true,
+      "desc": "securecast1, outgoing packets to <a href=\"https://en.wikipedia.org/wiki/McAfee\" title=\"McAfee\" class=\"mw-redirect\">NAI</a>'s SecureCast servers<sup id=\"cite_ref-SecureCast_21-0\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-SecureCast-21\">[21]</a></sup>As of 2000<sup class=\"plainlinks noprint asof-tag update\" style=\"display:none;\"><a class=\"external text\" href=\"https://en.wikipedia.org//en.wikipedia.org/w/index.php?title=List_of_TCP_and_UDP_port_numbers&amp;action=edit\">[update]</a></sup>",
+      "official": false
+   },
+   {
+      "id": 112,
+      "port": 371,
+      "tcp": true,
+      "udp": true,
+      "desc": "ClearCase albd",
+      "official": true
+   },
+   {
+      "id": 113,
+      "port": 383,
+      "tcp": true,
+      "udp": true,
+      "desc": "HP data alarm manager",
+      "official": true
+   },
+   {
+      "id": 114,
+      "port": 384,
+      "tcp": true,
+      "udp": true,
+      "desc": "A Remote Network Server System",
+      "official": true
+   },
+   {
+      "id": 115,
+      "port": 387,
+      "tcp": true,
+      "udp": true,
+      "desc": "AURP (<a href=\"https://en.wikipedia.org/wiki/AppleTalk\" title=\"AppleTalk\">AppleTalk</a> Update-based Routing Protocol)<sup id=\"cite_ref-22\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-22\">[22]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 116,
+      "port": 389,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol\" title=\"Lightweight Directory Access Protocol\">Lightweight Directory Access Protocol</a> (LDAP)",
+      "official": true
+   },
+   {
+      "id": 117,
+      "port": 399,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Digital_Equipment_Corporation\" title=\"Digital Equipment Corporation\">Digital Equipment Corporation</a> <a href=\"https://en.wikipedia.org/wiki/DECnet\" title=\"DECnet\">DECnet</a> (Phase V+) over TCP/IP",
+      "official": true
+   },
+   {
+      "id": 118,
+      "port": 401,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Uninterruptible_power_supply\" title=\"Uninterruptible power supply\">Uninterruptible power supply</a> (UPS)",
+      "official": true
+   },
+   {
+      "id": 119,
+      "port": 427,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Service_Location_Protocol\" title=\"Service Location Protocol\">Service Location Protocol</a> (SLP)",
+      "official": true
+   },
+   {
+      "id": 120,
+      "port": 433,
+      "tcp": true,
+      "udp": true,
+      "desc": "NNSP, part of <a href=\"https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol\" title=\"Network News Transfer Protocol\">Network News Transfer Protocol</a>",
+      "official": true
+   },
+   {
+      "id": 121,
+      "port": 434,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Mobile_IP\" title=\"Mobile IP\">Mobile IP</a> Agent (<a class=\"external mw-magiclink-rfc\" rel=\"nofollow\" href=\"https://en.wikipedia.org//tools.ietf.org/html/rfc5944\">RFC 5944</a>)",
+      "official": true
+   },
+   {
+      "id": 122,
+      "port": 443,
+      "tcp": false,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/QUIC\" title=\"QUIC\">QUIC</a> (from Chromium) for HTTPS",
+      "official": false
+   },
+   {
+      "id": 123,
+      "port": 444,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Simple_Network_Paging_Protocol\" title=\"Simple Network Paging Protocol\">Simple Network Paging Protocol</a> (SNPP), <a class=\"external mw-magiclink-rfc\" rel=\"nofollow\" href=\"https://en.wikipedia.org//tools.ietf.org/html/rfc1568\">RFC 1568</a>",
+      "official": true
+   },
+   {
+      "id": 124,
+      "port": 445,
+      "tcp": true,
+      "udp": false,
+      "desc": "Microsoft-DS <a href=\"https://en.wikipedia.org/wiki/Active_Directory\" title=\"Active Directory\">Active Directory</a>, Windows shares",
+      "official": true
+   },
+   {
+      "id": 125,
+      "port": 445,
+      "tcp": true,
+      "udp": false,
+      "desc": "Microsoft-DS <a href=\"https://en.wikipedia.org/wiki/Server_Message_Block\" title=\"Server Message Block\">SMB</a> file sharing",
+      "official": true
+   },
+   {
+      "id": 126,
+      "port": 464,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Kerberos_(protocol)\" title=\"Kerberos (protocol)\">Kerberos</a> Change/Set password",
+      "official": true
+   },
+   {
+      "id": 127,
+      "port": 465,
+      "tcp": true,
+      "udp": false,
+      "desc": "URL Rendezvous Directory for SSM (Cisco protocol)",
+      "official": true
+   },
+   {
+      "id": 128,
+      "port": 465,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol\" title=\"Simple Mail Transfer Protocol\">Simple Mail Transfer Protocol</a> over <a href=\"https://en.wikipedia.org/wiki/Transport_Layer_Security\" title=\"Transport Layer Security\">TLS</a>/<a href=\"https://en.wikipedia.org/wiki/Secure_Sockets_Layer\" title=\"Secure Sockets Layer\" class=\"mw-redirect\">SSL</a> (<a href=\"https://en.wikipedia.org/wiki/SMTPS\" title=\"SMTPS\">SMTPS</a>)",
+      "official": false
+   },
+   {
+      "id": 129,
+      "port": 475,
+      "tcp": true,
+      "udp": true,
+      "desc": "tcpnethaspsrv, <a href=\"https://en.wikipedia.org/wiki/Aladdin_Knowledge_Systems\" title=\"Aladdin Knowledge Systems\">Aladdin Knowledge Systems</a> Hasp services",
+      "official": true
+   },
+   {
+      "id": 130,
+      "port": 491,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/GO-Global\" title=\"GO-Global\">GO-Global remote access and application publishing software</a>",
+      "official": false
+   },
+   {
+      "id": 131,
+      "port": 497,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Retrospect_(software)\" title=\"Retrospect (software)\">Dantz Retrospect</a>",
+      "official": true
+   },
+   {
+      "id": 132,
+      "port": 500,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Internet_Security_Association_and_Key_Management_Protocol\" title=\"Internet Security Association and Key Management Protocol\">Internet Security Association and Key Management Protocol</a> (ISAKMP) / <a href=\"https://en.wikipedia.org/wiki/Internet_Key_Exchange\" title=\"Internet Key Exchange\">Internet Key Exchange</a> (IKE)",
+      "official": true
+   },
+   {
+      "id": 133,
+      "port": 502,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Modbus\" title=\"Modbus\">Modbus</a> Protocol",
+      "official": true
+   },
+   {
+      "id": 134,
+      "port": 504,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Citadel/UX\" title=\"Citadel/UX\">Citadel</a>, multiservice protocol for dedicated clients for the Citadel groupware system",
+      "official": true
+   },
+   {
+      "id": 135,
+      "port": 510,
+      "tcp": true,
+      "udp": true,
+      "desc": "FirstClass Protocol (FCP), used by <a href=\"https://en.wikipedia.org/wiki/FirstClass\" title=\"FirstClass\">FirstClass</a> client/server groupware system",
+      "official": true
+   },
+   {
+      "id": 136,
+      "port": 512,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Remote_Process_Execution\" title=\"Remote Process Execution\">Rexec</a>, Remote Process Execution",
+      "official": true
+   },
+   {
+      "id": 137,
+      "port": 512,
+      "tcp": false,
+      "udp": true,
+      "desc": "comsat, together with <a href=\"https://en.wikipedia.org/wiki/Biff_(computing)\" title=\"Biff (computing)\" class=\"mw-redirect\">biff</a>",
+      "official": true
+   },
+   {
+      "id": 138,
+      "port": 513,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Rlogin\" title=\"Rlogin\">rlogin</a>",
+      "official": true
+   },
+   {
+      "id": 139,
+      "port": 513,
+      "tcp": false,
+      "udp": true,
+      "desc": "Who<sup id=\"cite_ref-rfc1340_23-0\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1340-23\">[23]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 140,
+      "port": 514,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Remote_Shell\" title=\"Remote Shell\">Remote Shell</a>, used to execute non-interactive commands on a remote system (Remote Shell, rsh, remsh)",
+      "official": true
+   },
+   {
+      "id": 141,
+      "port": 514,
+      "tcp": false,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Syslog\" title=\"Syslog\">Syslog</a>, used for system logging",
+      "official": true
+   },
+   {
+      "id": 142,
+      "port": 515,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Line_Printer_Daemon_protocol\" title=\"Line Printer Daemon protocol\">Line Printer Daemon</a> (LPD), print service",
+      "official": true
+   },
+   {
+      "id": 143,
+      "port": 517,
+      "tcp": false,
+      "udp": true,
+      "desc": "Talk",
+      "official": true
+   },
+   {
+      "id": 144,
+      "port": 518,
+      "tcp": false,
+      "udp": true,
+      "desc": "NTalk",
+      "official": true
+   },
+   {
+      "id": 145,
+      "port": 520,
+      "tcp": true,
+      "udp": false,
+      "desc": "efs, extended file name server",
+      "official": true
+   },
+   {
+      "id": 146,
+      "port": 520,
+      "tcp": false,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Routing_Information_Protocol\" title=\"Routing Information Protocol\">Routing Information Protocol</a> (RIP)",
+      "official": true
+   },
+   {
+      "id": 147,
+      "port": 521,
+      "tcp": false,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Routing_Information_Protocol#RIPng\" title=\"Routing Information Protocol\">Routing Information Protocol Next Generation</a> (RIPng)",
+      "official": true
+   },
+   {
+      "id": 148,
+      "port": 524,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/NetWare_Core_Protocol\" title=\"NetWare Core Protocol\">NetWare Core Protocol</a> (NCP) is used for a variety things such as access to primary NetWare server resources, Time Synchronization, etc.",
+      "official": true
+   },
+   {
+      "id": 149,
+      "port": 525,
+      "tcp": false,
+      "udp": true,
+      "desc": "Timed, <a href=\"https://en.wikipedia.org/wiki/Timeserver\" title=\"Timeserver\" class=\"mw-redirect\">Timeserver</a>",
+      "official": true
+   },
+   {
+      "id": 150,
+      "port": 530,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Remote_procedure_call\" title=\"Remote procedure call\">Remote procedure call</a> (RPC)",
+      "official": true
+   },
+   {
+      "id": 151,
+      "port": 531,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/AOL_Instant_Messenger\" title=\"AOL Instant Messenger\">AOL Instant Messenger</a>",
+      "official": false
+   },
+   {
+      "id": 152,
+      "port": 532,
+      "tcp": true,
+      "udp": false,
+      "desc": "netnews",
+      "official": true
+   },
+   {
+      "id": 153,
+      "port": 533,
+      "tcp": false,
+      "udp": true,
+      "desc": "netwall, For Emergency Broadcasts",
+      "official": true
+   },
+   {
+      "id": 154,
+      "port": 540,
+      "tcp": true,
+      "udp": false,
+      "desc": "Unix-to-Unix Copy Protocol (<a href=\"https://en.wikipedia.org/wiki/UUCP\" title=\"UUCP\">UUCP</a>)",
+      "official": true
+   },
+   {
+      "id": 155,
+      "port": 542,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Commerce\" title=\"Commerce\">commerce</a> (Commerce Applications)",
+      "official": true
+   },
+   {
+      "id": 156,
+      "port": 543,
+      "tcp": true,
+      "udp": false,
+      "desc": "klogin, <a href=\"https://en.wikipedia.org/wiki/Kerberos_(protocol)\" title=\"Kerberos (protocol)\">Kerberos</a> login",
+      "official": true
+   },
+   {
+      "id": 157,
+      "port": 544,
+      "tcp": true,
+      "udp": false,
+      "desc": "kshell, <a href=\"https://en.wikipedia.org/wiki/Kerberos_(protocol)\" title=\"Kerberos (protocol)\">Kerberos</a> Remote shell",
+      "official": true
+   },
+   {
+      "id": 158,
+      "port": 545,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/OSIsoft\" title=\"OSIsoft\">OSIsoft</a> PI (VMS), OSISoft PI Server Client Access",
+      "official": false
+   },
+   {
+      "id": 159,
+      "port": 546,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/DHCPv6\" title=\"DHCPv6\">DHCPv6</a> client",
+      "official": true
+   },
+   {
+      "id": 160,
+      "port": 547,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/DHCPv6\" title=\"DHCPv6\">DHCPv6</a> server",
+      "official": true
+   },
+   {
+      "id": 161,
+      "port": 548,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Apple_Filing_Protocol\" title=\"Apple Filing Protocol\">Apple Filing Protocol</a> (AFP) over <a href=\"https://en.wikipedia.org/wiki/Transmission_Control_Protocol\" title=\"Transmission Control Protocol\">TCP</a>",
+      "official": true
+   },
+   {
+      "id": 162,
+      "port": 550,
+      "tcp": true,
+      "udp": true,
+      "desc": "new-rwho, new-who<sup id=\"cite_ref-rfc1340_23-1\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1340-23\">[23]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 163,
+      "port": 554,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol\" title=\"Real Time Streaming Protocol\">Real Time Streaming Protocol</a> (RTSP)",
+      "official": true
+   },
+   {
+      "id": 164,
+      "port": 556,
+      "tcp": true,
+      "udp": false,
+      "desc": "Remotefs, <a href=\"https://en.wikipedia.org/wiki/Remote_File_System\" title=\"Remote File System\" class=\"mw-redirect\">RFS</a>, rfs_server",
+      "official": true
+   },
+   {
+      "id": 165,
+      "port": 560,
+      "tcp": false,
+      "udp": true,
+      "desc": "rmonitor, Remote Monitor",
+      "official": true
+   },
+   {
+      "id": 166,
+      "port": 561,
+      "tcp": false,
+      "udp": true,
+      "desc": "monitor",
+      "official": true
+   },
+   {
+      "id": 167,
+      "port": 563,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/NNTP\" title=\"NNTP\" class=\"mw-redirect\">NNTP</a> over <a href=\"https://en.wikipedia.org/wiki/Transport_Layer_Security\" title=\"Transport Layer Security\">TLS</a>/<a href=\"https://en.wikipedia.org/wiki/Secure_Sockets_Layer\" title=\"Secure Sockets Layer\" class=\"mw-redirect\">SSL</a> (NNTPS)",
+      "official": true
+   },
+   {
+      "id": 168,
+      "port": 564,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/9P_(protocol)\" title=\"9P (protocol)\">9P</a> (<a href=\"https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs\" title=\"Plan 9 from Bell Labs\">Plan 9</a>)",
+      "official": false
+   },
+   {
+      "id": 169,
+      "port": 587,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Mail_submission_agent\" title=\"Mail submission agent\">e-mail message submission</a><sup id=\"cite_ref-24\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-24\">[24]</a></sup> (<a href=\"https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol\" title=\"Simple Mail Transfer Protocol\">SMTP</a>)",
+      "official": true
+   },
+   {
+      "id": 170,
+      "port": 591,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/FileMaker\" title=\"FileMaker\">FileMaker</a> 6.0 (and later) Web Sharing (HTTP Alternate, also see port 80)",
+      "official": true
+   },
+   {
+      "id": 171,
+      "port": 593,
+      "tcp": true,
+      "udp": true,
+      "desc": "HTTP RPC Ep Map, <a href=\"https://en.wikipedia.org/wiki/Remote_procedure_call\" title=\"Remote procedure call\">Remote procedure call</a> over <a href=\"https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol\" title=\"Hypertext Transfer Protocol\">Hypertext Transfer Protocol</a>, often used by <a href=\"https://en.wikipedia.org/wiki/Distributed_Component_Object_Model\" title=\"Distributed Component Object Model\">Distributed Component Object Model</a> services and <a href=\"https://en.wikipedia.org/wiki/Microsoft_Exchange_Server\" title=\"Microsoft Exchange Server\">Microsoft Exchange Server</a>",
+      "official": true
+   },
+   {
+      "id": 172,
+      "port": 601,
+      "tcp": true,
+      "udp": false,
+      "desc": "Reliable <a href=\"https://en.wikipedia.org/wiki/Syslog\" title=\"Syslog\">Syslog</a> Service — used for system logging",
+      "official": true
+   },
+   {
+      "id": 173,
+      "port": 604,
+      "tcp": true,
+      "udp": false,
+      "desc": "TUNNEL profile,<sup id=\"cite_ref-25\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-25\">[25]</a></sup> a protocol for <a href=\"https://en.wikipedia.org/wiki/BEEP\" title=\"BEEP\">BEEP</a> <a href=\"https://en.wikipedia.org/wiki/Peer-to-peer\" title=\"Peer-to-peer\">peers</a> to form an <a href=\"https://en.wikipedia.org/wiki/Application_layer\" title=\"Application layer\">application layer</a> <a href=\"https://en.wikipedia.org/wiki/Tunneling_protocol\" title=\"Tunneling protocol\">tunnel</a>",
+      "official": true
+   },
+   {
+      "id": 174,
+      "port": 623,
+      "tcp": false,
+      "udp": true,
+      "desc": "ASF Remote Management and Control Protocol (ASF-RMCP)",
+      "official": true
+   },
+   {
+      "id": 175,
+      "port": 625,
+      "tcp": true,
+      "udp": false,
+      "desc": "Open Directory Proxy (ODProxy)",
+      "official": false
+   },
+   {
+      "id": 176,
+      "port": 631,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Internet_Printing_Protocol\" title=\"Internet Printing Protocol\">Internet Printing Protocol</a> (IPP)",
+      "official": true
+   },
+   {
+      "id": 177,
+      "port": 631,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Common_Unix_Printing_System\" title=\"Common Unix Printing System\" class=\"mw-redirect\">Common Unix Printing System</a> (CUPS) administration console (extension to IPP)",
+      "official": false
+   },
+   {
+      "id": 178,
+      "port": 635,
+      "tcp": true,
+      "udp": true,
+      "desc": "RLZ DBase",
+      "official": true
+   },
+   {
+      "id": 179,
+      "port": 636,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol\" title=\"Lightweight Directory Access Protocol\">Lightweight Directory Access Protocol</a> over <a href=\"https://en.wikipedia.org/wiki/Transport_Layer_Security\" title=\"Transport Layer Security\">TLS</a>/<a href=\"https://en.wikipedia.org/wiki/Secure_Sockets_Layer\" title=\"Secure Sockets Layer\" class=\"mw-redirect\">SSL</a> (LDAPS)",
+      "official": true
+   },
+   {
+      "id": 180,
+      "port": 639,
+      "tcp": true,
+      "udp": true,
+      "desc": "MSDP, <a href=\"https://en.wikipedia.org/wiki/Multicast_Source_Discovery_Protocol\" title=\"Multicast Source Discovery Protocol\">Multicast Source Discovery Protocol</a>",
+      "official": true
+   },
+   {
+      "id": 181,
+      "port": 641,
+      "tcp": true,
+      "udp": true,
+      "desc": "SupportSoft Nexus Remote Command (control/listening), a proxy gateway connecting remote control traffic",
+      "official": true
+   },
+   {
+      "id": 182,
+      "port": 643,
+      "tcp": true,
+      "udp": true,
+      "desc": "SANity",
+      "official": true
+   },
+   {
+      "id": 183,
+      "port": 646,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Label_Distribution_Protocol\" title=\"Label Distribution Protocol\">Label Distribution Protocol</a> (LDP), a routing protocol used in <a href=\"https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching\" title=\"Multiprotocol Label Switching\">MPLS</a> networks",
+      "official": true
+   },
+   {
+      "id": 184,
+      "port": 647,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol#Reliability\" title=\"Dynamic Host Configuration Protocol\">DHCP Failover</a> protocol<sup id=\"cite_ref-26\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-26\">[26]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 185,
+      "port": 648,
+      "tcp": true,
+      "udp": false,
+      "desc": "Registry Registrar Protocol (RRP)<sup id=\"cite_ref-27\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-27\">[27]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 186,
+      "port": 651,
+      "tcp": true,
+      "udp": true,
+      "desc": "IEEE-MMS",
+      "official": true
+   },
+   {
+      "id": 187,
+      "port": 653,
+      "tcp": true,
+      "udp": true,
+      "desc": "SupportSoft Nexus Remote Command (data), a proxy gateway connecting remote control traffic",
+      "official": true
+   },
+   {
+      "id": 188,
+      "port": 654,
+      "tcp": true,
+      "udp": false,
+      "desc": "Media Management System (MMS) Media Management Protocol (MMP)<sup id=\"cite_ref-28\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-28\">[28]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 189,
+      "port": 655,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Tinc_(protocol)\" title=\"Tinc (protocol)\">Tinc</a> VPN daemon",
+      "official": false
+   },
+   {
+      "id": 190,
+      "port": 657,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/IBM\" title=\"IBM\">IBM</a> RMC (Remote monitoring and Control) protocol, used by <a href=\"https://en.wikipedia.org/wiki/IBM_System_p\" title=\"IBM System p\">System p5</a> <a href=\"https://en.wikipedia.org/wiki/IBM_AIX_(operating_system)\" title=\"IBM AIX (operating system)\" class=\"mw-redirect\">AIX</a> Integrated Virtualization Manager (IVM)<sup id=\"cite_ref-29\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-29\">[29]</a></sup> and <a href=\"https://en.wikipedia.org/wiki/IBM_Hardware_Management_Console\" title=\"IBM Hardware Management Console\">Hardware Management Console</a> to connect managed <a href=\"https://en.wikipedia.org/wiki/LPAR\" title=\"LPAR\" class=\"mw-redirect\">logical partitions (LPAR)</a> to enable dynamic partition reconfiguration",
+      "official": true
+   },
+   {
+      "id": 191,
+      "port": 660,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Mac_OS_X_Server\" title=\"Mac OS X Server\" class=\"mw-redirect\">Mac OS X Server</a> administration",
+      "official": true
+   },
+   {
+      "id": 192,
+      "port": 666,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Doom_(game)\" title=\"Doom (game)\" class=\"mw-redirect\">Doom</a>, first online <a href=\"https://en.wikipedia.org/wiki/First-person_shooter\" title=\"First-person shooter\">first-person shooter</a>",
+      "official": true
+   },
+   {
+      "id": 193,
+      "port": 666,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.aircrack-ng.org/doku.php?id=airserv-ng\">airserv-ng</a>, <a href=\"https://en.wikipedia.org/wiki/Aircrack-ng\" title=\"Aircrack-ng\">aircrack-ng</a>'s server for remote-controlling wireless devices",
+      "official": false
+   },
+   {
+      "id": 194,
+      "port": 674,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Application_Configuration_Access_Protocol\" title=\"Application Configuration Access Protocol\">Application Configuration Access Protocol</a> (ACAP)",
+      "official": true
+   },
+   {
+      "id": 195,
+      "port": 688,
+      "tcp": true,
+      "udp": true,
+      "desc": "REALM-RUSD (ApplianceWare Server Appliance Management Protocol)",
+      "official": true
+   },
+   {
+      "id": 196,
+      "port": 690,
+      "tcp": true,
+      "udp": true,
+      "desc": "Velneo Application Transfer Protocol (VATP)",
+      "official": true
+   },
+   {
+      "id": 197,
+      "port": 691,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Microsoft\" title=\"Microsoft\">MS</a> <a href=\"https://en.wikipedia.org/wiki/Microsoft_Exchange_Server\" title=\"Microsoft Exchange Server\">Exchange</a> Routing",
+      "official": true
+   },
+   {
+      "id": 198,
+      "port": 694,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Linux-HA\" title=\"Linux-HA\">Linux-HA</a> high-availability heartbeat",
+      "official": true
+   },
+   {
+      "id": 199,
+      "port": 695,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/IEEE\" title=\"IEEE\" class=\"mw-redirect\">IEEE</a> Media Management System over <a href=\"https://en.wikipedia.org/wiki/Transport_Layer_Security\" title=\"Transport Layer Security\">SSL</a> (IEEE-MMS-SSL)<sup id=\"cite_ref-30\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-30\">[30]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 200,
+      "port": 698,
+      "tcp": false,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Optimized_Link_State_Routing_protocol\" title=\"Optimized Link State Routing protocol\" class=\"mw-redirect\">Optimized Link State Routing</a> (OLSR)",
+      "official": true
+   },
+   {
+      "id": 201,
+      "port": 700,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Extensible_Provisioning_Protocol\" title=\"Extensible Provisioning Protocol\">Extensible Provisioning Protocol</a> (EPP), a protocol for communication between <a href=\"https://en.wikipedia.org/wiki/Domain_name_registry\" title=\"Domain name registry\">domain name registries</a> and <a href=\"https://en.wikipedia.org/wiki/Domain_name_registrar\" title=\"Domain name registrar\">registrars</a> (<a class=\"external mw-magiclink-rfc\" rel=\"nofollow\" href=\"https://en.wikipedia.org//tools.ietf.org/html/rfc5734\">RFC 5734</a>)",
+      "official": true
+   },
+   {
+      "id": 202,
+      "port": 701,
+      "tcp": true,
+      "udp": false,
+      "desc": "Link Management Protocol (LMP),<sup id=\"cite_ref-31\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-31\">[31]</a></sup> a protocol that runs between a pair of <a href=\"https://en.wikipedia.org/wiki/Node_(networking)\" title=\"Node (networking)\">nodes</a> and is used to manage <a href=\"https://en.wikipedia.org/wiki/Teletraffic_engineering\" title=\"Teletraffic engineering\">traffic engineering</a> (TE) <a href=\"https://en.wikipedia.org/wiki/Telecommunications_link\" title=\"Telecommunications link\">links</a>",
+      "official": true
+   },
+   {
+      "id": 203,
+      "port": 702,
+      "tcp": true,
+      "udp": false,
+      "desc": "IRIS<sup id=\"cite_ref-32\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-32\">[32]</a></sup><sup id=\"cite_ref-33\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-33\">[33]</a></sup> (Internet Registry Information Service) over <a href=\"https://en.wikipedia.org/wiki/BEEP\" title=\"BEEP\">BEEP</a> (Blocks Extensible Exchange Protocol)<sup id=\"cite_ref-34\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-34\">[34]</a></sup> (<a class=\"external mw-magiclink-rfc\" rel=\"nofollow\" href=\"https://en.wikipedia.org//tools.ietf.org/html/rfc3983\">RFC 3983</a>)",
+      "official": true
+   },
+   {
+      "id": 204,
+      "port": 706,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/SILC_(protocol)\" title=\"SILC (protocol)\">Secure Internet Live Conferencing</a> (SILC)",
+      "official": true
+   },
+   {
+      "id": 205,
+      "port": 711,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Cisco\" title=\"Cisco\" class=\"mw-redirect\">Cisco</a> Tag Distribution Protocol<sup id=\"cite_ref-35\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-35\">[35]</a></sup><sup id=\"cite_ref-36\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-36\">[36]</a></sup><sup id=\"cite_ref-37\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-37\">[37]</a></sup>—being replaced by the MPLS <a href=\"https://en.wikipedia.org/wiki/Label_Distribution_Protocol\" title=\"Label Distribution Protocol\">Label Distribution Protocol</a><sup id=\"cite_ref-38\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-38\">[38]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 206,
+      "port": 712,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Topology_Broadcast_based_on_Reverse-Path_Forwarding_routing_protocol\" title=\"Topology Broadcast based on Reverse-Path Forwarding routing protocol\" class=\"mw-redirect\">Topology Broadcast based on Reverse-Path Forwarding routing protocol</a> (TBRPF; <a class=\"external mw-magiclink-rfc\" rel=\"nofollow\" href=\"https://en.wikipedia.org//tools.ietf.org/html/rfc3684\">RFC 3684</a>)",
+      "official": true
+   },
+   {
+      "id": 207,
+      "port": 749,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Kerberos_(protocol)\" title=\"Kerberos (protocol)\">Kerberos (protocol)</a> administration",
+      "official": true
+   },
+   {
+      "id": 208,
+      "port": 750,
+      "tcp": false,
+      "udp": true,
+      "desc": "kerberos-iv, <a href=\"https://en.wikipedia.org/wiki/Kerberos_(protocol)\" title=\"Kerberos (protocol)\">Kerberos</a> version IV",
+      "official": true
+   },
+   {
+      "id": 209,
+      "port": 751,
+      "tcp": true,
+      "udp": true,
+      "desc": "kerberos_master, <a href=\"https://en.wikipedia.org/wiki/Kerberos_(protocol)\" title=\"Kerberos (protocol)\">Kerberos</a> authentication",
+      "official": false
+   },
+   {
+      "id": 210,
+      "port": 752,
+      "tcp": false,
+      "udp": true,
+      "desc": "passwd_server, <a href=\"https://en.wikipedia.org/wiki/Kerberos_(protocol)\" title=\"Kerberos (protocol)\">Kerberos</a> password (kpasswd) server",
+      "official": false
+   },
+   {
+      "id": 211,
+      "port": 753,
+      "tcp": true,
+      "udp": false,
+      "desc": "Reverse Routing Header (RRH)<sup id=\"cite_ref-39\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-39\">[39]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 212,
+      "port": 753,
+      "tcp": false,
+      "udp": true,
+      "desc": "Reverse Routing Header (RRH)",
+      "official": true
+   },
+   {
+      "id": 213,
+      "port": 753,
+      "tcp": false,
+      "udp": true,
+      "desc": "userreg_server, <a href=\"https://en.wikipedia.org/wiki/Kerberos_(protocol)\" title=\"Kerberos (protocol)\">Kerberos</a> userreg server",
+      "official": false
+   },
+   {
+      "id": 214,
+      "port": 754,
+      "tcp": true,
+      "udp": false,
+      "desc": "tell send",
+      "official": true
+   },
+   {
+      "id": 215,
+      "port": 754,
+      "tcp": true,
+      "udp": false,
+      "desc": "krb5_prop, <a href=\"https://en.wikipedia.org/wiki/Kerberos_(protocol)\" title=\"Kerberos (protocol)\">Kerberos</a> v5 slave propagation",
+      "official": false
+   },
+   {
+      "id": 216,
+      "port": 754,
+      "tcp": false,
+      "udp": true,
+      "desc": "tell send",
+      "official": true
+   },
+   {
+      "id": 217,
+      "port": 760,
+      "tcp": true,
+      "udp": true,
+      "desc": "krbupdate [kreg], <a href=\"https://en.wikipedia.org/wiki/Kerberos_(protocol)\" title=\"Kerberos (protocol)\">Kerberos</a> registration",
+      "official": false
+   },
+   {
+      "id": 218,
+      "port": 782,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Conserver\" title=\"Conserver\">Conserver</a> serial-console management server",
+      "official": false
+   },
+   {
+      "id": 219,
+      "port": 783,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/SpamAssassin\" title=\"SpamAssassin\">SpamAssassin</a> spamd daemon",
+      "official": false
+   },
+   {
+      "id": 220,
+      "port": 800,
+      "tcp": true,
+      "udp": true,
+      "desc": "mdbs-daemon",
+      "official": true
+   },
+   {
+      "id": 221,
+      "port": 808,
+      "tcp": true,
+      "udp": false,
+      "desc": "Microsoft Net.TCP Port Sharing Service",
+      "official": false
+   },
+   {
+      "id": 222,
+      "port": 829,
+      "tcp": true,
+      "udp": false,
+      "desc": "Certificate Management Protocol<sup id=\"cite_ref-40\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-40\">[40]</a></sup>",
+      "official": false
+   },
+   {
+      "id": 223,
+      "port": 830,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/NETCONF\" title=\"NETCONF\">NETCONF</a> over <a href=\"https://en.wikipedia.org/wiki/Secure_Shell\" title=\"Secure Shell\">SSH</a>",
+      "official": true
+   },
+   {
+      "id": 224,
+      "port": 831,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/NETCONF\" title=\"NETCONF\">NETCONF</a> over <a href=\"https://en.wikipedia.org/wiki/BEEP\" title=\"BEEP\">BEEP</a>",
+      "official": true
+   },
+   {
+      "id": 225,
+      "port": 832,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/NETCONF\" title=\"NETCONF\">NETCONF</a> for <a href=\"https://en.wikipedia.org/wiki/SOAP\" title=\"SOAP\">SOAP</a> over <a href=\"https://en.wikipedia.org/wiki/HTTPS\" title=\"HTTPS\">HTTPS</a>",
+      "official": true
+   },
+   {
+      "id": 226,
+      "port": 833,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/NETCONF\" title=\"NETCONF\">NETCONF</a> for <a href=\"https://en.wikipedia.org/wiki/SOAP\" title=\"SOAP\">SOAP</a> over <a href=\"https://en.wikipedia.org/wiki/BEEP\" title=\"BEEP\">BEEP</a>",
+      "official": true
+   },
+   {
+      "id": 227,
+      "port": 843,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Adobe_Flash\" title=\"Adobe Flash\">Adobe Flash</a><sup id=\"cite_ref-41\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-41\">[41]</a></sup>",
+      "official": false
+   },
+   {
+      "id": 228,
+      "port": 847,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol#Reliability\" title=\"Dynamic Host Configuration Protocol\">DHCP Failover</a> protocol",
+      "official": true
+   },
+   {
+      "id": 229,
+      "port": 848,
+      "tcp": true,
+      "udp": true,
+      "desc": "Group Domain Of Interpretation (GDOI) protocol",
+      "official": true
+   },
+   {
+      "id": 230,
+      "port": 860,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/ISCSI\" title=\"ISCSI\">iSCSI</a> (<a class=\"external mw-magiclink-rfc\" rel=\"nofollow\" href=\"https://en.wikipedia.org//tools.ietf.org/html/rfc3720\">RFC 3720</a>)",
+      "official": true
+   },
+   {
+      "id": 231,
+      "port": 861,
+      "tcp": true,
+      "udp": true,
+      "desc": "OWAMP control (<a class=\"external mw-magiclink-rfc\" rel=\"nofollow\" href=\"https://en.wikipedia.org//tools.ietf.org/html/rfc4656\">RFC 4656</a>)",
+      "official": true
+   },
+   {
+      "id": 232,
+      "port": 862,
+      "tcp": true,
+      "udp": true,
+      "desc": "TWAMP control (<a class=\"external mw-magiclink-rfc\" rel=\"nofollow\" href=\"https://en.wikipedia.org//tools.ietf.org/html/rfc5357\">RFC 5357</a>)",
+      "official": true
+   },
+   {
+      "id": 233,
+      "port": 873,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Rsync\" title=\"Rsync\">rsync</a> file synchronization protocol",
+      "official": true
+   },
+   {
+      "id": 234,
+      "port": 888,
+      "tcp": true,
+      "udp": false,
+      "desc": "cddbp, <a href=\"https://en.wikipedia.org/wiki/CD_database\" title=\"CD database\" class=\"mw-redirect\">CD DataBase</a> (<a href=\"https://en.wikipedia.org/wiki/CDDB\" title=\"CDDB\">CDDB</a>) protocol (CDDBP)",
+      "official": false
+   },
+   {
+      "id": 235,
+      "port": 888,
+      "tcp": true,
+      "udp": false,
+      "desc": "IBM Endpoint Manager Remote Control",
+      "official": false
+   },
+   {
+      "id": 236,
+      "port": 897,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Brocade_Communications_Systems\" title=\"Brocade Communications Systems\">Brocade</a> SMI-S RPC",
+      "official": false
+   },
+   {
+      "id": 237,
+      "port": 898,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Brocade_Communications_Systems\" title=\"Brocade Communications Systems\">Brocade</a> SMI-S RPC SSL",
+      "official": false
+   },
+   {
+      "id": 238,
+      "port": 901,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Samba_software\" title=\"Samba software\" class=\"mw-redirect\">Samba</a> Web Administration Tool (SWAT)",
+      "official": false
+   },
+   {
+      "id": 239,
+      "port": 901,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/VMware\" title=\"VMware\">VMware</a> Virtual Infrastructure Client (from managed device to management console)",
+      "official": false
+   },
+   {
+      "id": 240,
+      "port": 902,
+      "tcp": true,
+      "udp": true,
+      "desc": "ideafarm-door (IdeaFarm (tm) Operations)",
+      "official": true
+   },
+   {
+      "id": 241,
+      "port": 902,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/VMware\" title=\"VMware\">VMware</a> Server Console (from management console to managed device)",
+      "official": false
+   },
+   {
+      "id": 242,
+      "port": 903,
+      "tcp": true,
+      "udp": true,
+      "desc": "ideafarm-panic (IdeaFarm (tm) Operations)",
+      "official": true
+   },
+   {
+      "id": 243,
+      "port": 903,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/VMware\" title=\"VMware\">VMware</a> Remote Console<sup id=\"cite_ref-42\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-42\">[42]</a></sup>",
+      "official": false
+   },
+   {
+      "id": 244,
+      "port": 904,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/VMware\" title=\"VMware\">VMware</a> Server alternate",
+      "official": false
+   },
+   {
+      "id": 245,
+      "port": 911,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Network_Console_on_Acid\" title=\"Network Console on Acid\">Network Console on Acid</a> (NCA), local <a href=\"https://en.wikipedia.org/wiki/Tty_(Unix)\" title=\"Tty (Unix)\" class=\"mw-redirect\">tty</a> redirection over <a href=\"https://en.wikipedia.org/wiki/OpenSSH\" title=\"OpenSSH\">OpenSSH</a>",
+      "official": false
+   },
+   {
+      "id": 246,
+      "port": 944,
+      "tcp": false,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Network_File_System\" title=\"Network File System\">Network File System</a> Service",
+      "official": false
+   },
+   {
+      "id": 247,
+      "port": 953,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Domain_Name_System\" title=\"Domain Name System\">Domain Name System</a> (DNS) RNDC Service",
+      "official": false
+   },
+   {
+      "id": 248,
+      "port": 973,
+      "tcp": false,
+      "udp": true,
+      "desc": "Network File System over <a href=\"https://en.wikipedia.org/wiki/IPv6\" title=\"IPv6\">IPv6</a> Service",
+      "official": false
+   },
+   {
+      "id": 249,
+      "port": 981,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/SofaWare_Technologies\" title=\"SofaWare Technologies\" class=\"mw-redirect\">SofaWare Technologies</a> Remote HTTPS management for firewall devices running embedded <a href=\"https://en.wikipedia.org/wiki/Check_Point\" title=\"Check Point\">Check Point</a> <a href=\"https://en.wikipedia.org/wiki/FireWall-1\" title=\"FireWall-1\" class=\"mw-redirect\">FireWall-1</a> software",
+      "official": false
+   },
+   {
+      "id": 250,
+      "port": 987,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Microsoft_Windows\" title=\"Microsoft Windows\">Microsoft Windows</a> SBS <a href=\"https://en.wikipedia.org/wiki/SharePoint\" title=\"SharePoint\">SharePoint</a>",
+      "official": false
+   },
+   {
+      "id": 251,
+      "port": 989,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/FTPS\" title=\"FTPS\">FTPS</a> Protocol (data), <a href=\"https://en.wikipedia.org/wiki/FTP\" title=\"FTP\" class=\"mw-redirect\">FTP</a> over <a href=\"https://en.wikipedia.org/wiki/Transport_Layer_Security\" title=\"Transport Layer Security\">TLS</a>/<a href=\"https://en.wikipedia.org/wiki/Secure_Sockets_Layer\" title=\"Secure Sockets Layer\" class=\"mw-redirect\">SSL</a>",
+      "official": true
+   },
+   {
+      "id": 252,
+      "port": 990,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/FTPS\" title=\"FTPS\">FTPS</a> Protocol (control), <a href=\"https://en.wikipedia.org/wiki/FTP\" title=\"FTP\" class=\"mw-redirect\">FTP</a> over <a href=\"https://en.wikipedia.org/wiki/Transport_Layer_Security\" title=\"Transport Layer Security\">TLS</a>/<a href=\"https://en.wikipedia.org/wiki/Secure_Sockets_Layer\" title=\"Secure Sockets Layer\" class=\"mw-redirect\">SSL</a>",
+      "official": true
+   },
+   {
+      "id": 253,
+      "port": 991,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Netnews\" title=\"Netnews\" class=\"mw-redirect\">Netnews</a> Administration System (NAS)<sup id=\"cite_ref-43\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-43\">[43]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 254,
+      "port": 992,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Telnet\" title=\"Telnet\">Telnet</a> protocol over <a href=\"https://en.wikipedia.org/wiki/Transport_Layer_Security\" title=\"Transport Layer Security\">TLS</a>/<a href=\"https://en.wikipedia.org/wiki/Secure_Sockets_Layer\" title=\"Secure Sockets Layer\" class=\"mw-redirect\">SSL</a>",
+      "official": true
+   },
+   {
+      "id": 255,
+      "port": 993,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol\" title=\"Internet Message Access Protocol\">Internet Message Access Protocol</a> over <a href=\"https://en.wikipedia.org/wiki/Transport_Layer_Security\" title=\"Transport Layer Security\">TLS</a>/<a href=\"https://en.wikipedia.org/wiki/Secure_Sockets_Layer\" title=\"Secure Sockets Layer\" class=\"mw-redirect\">SSL</a> (IMAPS)",
+      "official": true
+   },
+   {
+      "id": 256,
+      "port": 994,
+      "tcp": true,
+      "udp": true,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Internet_Relay_Chat\" title=\"Internet Relay Chat\">Internet Relay Chat</a> over <a href=\"https://en.wikipedia.org/wiki/Transport_Layer_Security\" title=\"Transport Layer Security\">TLS</a>/<a href=\"https://en.wikipedia.org/wiki/Secure_Sockets_Layer\" title=\"Secure Sockets Layer\" class=\"mw-redirect\">SSL</a> (IRCS)",
+      "official": true
+   },
+   {
+      "id": 257,
+      "port": 995,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Post_Office_Protocol\" title=\"Post Office Protocol\">Post Office Protocol</a> 3 over <a href=\"https://en.wikipedia.org/wiki/Transport_Layer_Security\" title=\"Transport Layer Security\">TLS</a>/<a href=\"https://en.wikipedia.org/wiki/Secure_Sockets_Layer\" title=\"Secure Sockets Layer\" class=\"mw-redirect\">SSL</a> (POP3S)",
+      "official": true
+   },
+   {
+      "id": 258,
+      "port": 999,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/ScimoreDB\" title=\"ScimoreDB\">ScimoreDB</a> Database System",
+      "official": false
+   },
+   {
+      "id": 259,
+      "port": 1002,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Opsware\" title=\"Opsware\">Opsware</a> agent (aka cogbot)",
+      "official": false
+   },
+   {
+      "id": 260,
+      "port": 1010,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/ThinLinc\" title=\"ThinLinc\">ThinLinc</a> Web Administration",
+      "official": false
+   },
+   {
+      "id": 261,
+      "port": 1023,
+      "tcp": true,
+      "udp": true,
+      "desc": "Reserved<sup id=\"cite_ref-IANA_1-3\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-IANA-1\">[1]</a></sup>",
+      "official": true
+   },
+   {
+      "id": 262,
+      "port": 1025,
+      "tcp": true,
+      "udp": false,
+      "desc": "<a href=\"https://en.wikipedia.org/wiki/Network_File_System_(protocol)\" title=\"Network File System (protocol)\" class=\"mw-redirect\">NFS</a>",
+      "official": false
+   }
+]

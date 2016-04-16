@@ -23,7 +23,7 @@ function handle(port, tcp, udp, desc, official) {
   # For multiple ports
   if (index(port, "-") > 0) {
     split(port, portrange, "-")
-    port = "{ start: " portrange[1] ", end: " portrange[2] " }" 
+    port = "{ \"start\": " portrange[1] ", \"end\": " portrange[2] " }" 
   }
 
   if (n > 0) print "   },"

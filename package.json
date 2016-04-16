@@ -1,0 +1,22 @@
+{
+  "name": "port-flashcard",
+  "version": "0.5.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retorillo/port-flashcard.git"
+  },
+  "author": "retorillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/retorillo/port-flashcard/issues"
+  },
+  "homepage": "https://github.com/retorillo/port-flashcard#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
