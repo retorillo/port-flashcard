@@ -20,10 +20,10 @@ function handle(port, tcp, udp, desc, official) {
   # Collation for hyphen minus(U+2D)
   port = gensub(/([[:digit:]]+)[^[:digit:][:space:]]+([[:digit:]]+)/, "\\1-\\2", 1, port)
 
-  # For multiple ports (6000-6093 and 31820-31829)
+  # For multiple ports
   if (index(port, "-") > 0) {
     split(port, portrange, "-")
-    port = "[" portrange[1] ", " portrange[2] "]" 
+    port = "{ start: " portrange[1] ", end: " portrange[2] " }" 
   }
 
   if (n > 0) print "   },"

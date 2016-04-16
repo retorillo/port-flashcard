@@ -345,7 +345,7 @@
    },
    {
       "id":43,
-      "port":[71, 74],
+      "port":{ start: 71, end: 74 },
       "tcp":true,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/NETRJS\" title=\"NETRJS\" class=\"mw-redirect\">NETRJS</a> protocol",
@@ -3033,7 +3033,7 @@
    },
    {
       "id":379,
-      "port":[1762, 1768],
+      "port":{ start: 1762, end: 1768 },
       "tcp":true,
       "udp":true,
       "desc":"cft-1 to cft-7",
@@ -3169,7 +3169,7 @@
    },
    {
       "id":396,
-      "port":[1975, 1977],
+      "port":{ start: 1975, end: 1977 },
       "tcp":false,
       "udp":true,
       "desc":"Cisco <a href=\"https://en.wikipedia.org/wiki/Total_cost_of_ownership\" title=\"Total cost of ownership\">TCO</a><sup id=\"cite_ref-53\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-53\">[53]</a></sup>",
@@ -3729,7 +3729,7 @@
    },
    {
       "id":466,
-      "port":[2224, 2226],
+      "port":{ start: 2224, end: 2226 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/ESET\" title=\"ESET\">ESET</a> Remote administrator <sup id=\"cite_ref-eset_user_guide_5_2_56-3\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-eset_user_guide_5_2-56\">[56]</a></sup>",
@@ -4033,7 +4033,7 @@
    },
    {
       "id":504,
-      "port":[2546, 2548],
+      "port":{ start: 2546, end: 2548 },
       "tcp":true,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/EVault\" title=\"EVault\">EVault</a> data protection services (Vytal Vault)",
@@ -5441,7 +5441,7 @@
    },
    {
       "id":680,
-      "port":[4444, 4445],
+      "port":{ start: 4444, end: 4445 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/I2P\" title=\"I2P\">I2P</a> HTTP/S proxy",
@@ -5465,7 +5465,7 @@
    },
    {
       "id":683,
-      "port":[4502, 4534],
+      "port":{ start: 4502, end: 4534 },
       "tcp":true,
       "udp":false,
       "desc":"Microsoft Silverlight connectable ports under non-elevated trust",
@@ -5473,7 +5473,7 @@
    },
    {
       "id":684,
-      "port":[4505, 4506],
+      "port":{ start: 4505, end: 4506 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/Salt_(software)\" title=\"Salt (software)\">Salt</a> master",
@@ -5537,7 +5537,7 @@
    },
    {
       "id":692,
-      "port":[4610, 4640],
+      "port":{ start: 4610, end: 4640 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/QualiSystems\" title=\"QualiSystems\">QualiSystems</a> TestShell Suite Services",
@@ -6825,7 +6825,7 @@
    },
    {
       "id":853,
-      "port":[5988, 5989],
+      "port":{ start: 5988, end: 5989 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/Common_Information_Model_(computing)\" title=\"Common Information Model (computing)\">CIM</a> XML transactions over HTTP/S—VMware vCenter ESXi management<sup id=\"cite_ref-116\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-116\">[116]</a></sup>",
@@ -6841,7 +6841,7 @@
    },
    {
       "id":855,
-      "port":[6000, 6063],
+      "port":{ start: 6000, end: 6063 },
       "tcp":true,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/X_Window_System\" title=\"X Window System\">X11</a>—used between an X client and server over the network",
@@ -7265,7 +7265,7 @@
    },
    {
       "id":908,
-      "port":[6560, 6561],
+      "port":{ start: 6560, end: 6561 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/w/index.php?title=Speech-Dispatcher&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Speech-Dispatcher (page does not exist)\">Speech-Dispatcher</a> daemon",
@@ -7337,7 +7337,7 @@
    },
    {
       "id":917,
-      "port":[6660, 6664],
+      "port":{ start: 6660, end: 6664 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/Internet_Relay_Chat\" title=\"Internet Relay Chat\">Internet Relay Chat</a> (IRC)",
@@ -7345,7 +7345,7 @@
    },
    {
       "id":918,
-      "port":[6665, 6669],
+      "port":{ start: 6665, end: 6669 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/Internet_Relay_Chat\" title=\"Internet Relay Chat\">Internet Relay Chat</a> (IRC)",
@@ -7417,7 +7417,7 @@
    },
    {
       "id":927,
-      "port":[6783, 6785],
+      "port":{ start: 6783, end: 6785 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/Splashtop_Remote\" title=\"Splashtop Remote\">Splashtop Remote</a> server broadcast",
@@ -7449,7 +7449,7 @@
    },
    {
       "id":931,
-      "port":[6881, 6887],
+      "port":{ start: 6881, end: 6887 },
       "tcp":true,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/BitTorrent_(protocol)\" title=\"BitTorrent (protocol)\" class=\"mw-redirect\">BitTorrent</a> part of full range of ports used most often",
@@ -7473,7 +7473,7 @@
    },
    {
       "id":934,
-      "port":[6889, 6890],
+      "port":{ start: 6889, end: 6890 },
       "tcp":true,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/BitTorrent_(protocol)\" title=\"BitTorrent (protocol)\" class=\"mw-redirect\">BitTorrent</a> part of full range of ports used most often",
@@ -7481,7 +7481,7 @@
    },
    {
       "id":935,
-      "port":[6891, 6900],
+      "port":{ start: 6891, end: 6900 },
       "tcp":true,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/BitTorrent_(protocol)\" title=\"BitTorrent (protocol)\" class=\"mw-redirect\">BitTorrent</a> part of full range of ports used most often",
@@ -7489,7 +7489,7 @@
    },
    {
       "id":936,
-      "port":[6891, 6900],
+      "port":{ start: 6891, end: 6900 },
       "tcp":true,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/Windows_Live_Messenger\" title=\"Windows Live Messenger\">Windows Live Messenger</a> (File transfer)",
@@ -7513,7 +7513,7 @@
    },
    {
       "id":939,
-      "port":[6902, 6968],
+      "port":{ start: 6902, end: 6968 },
       "tcp":true,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/BitTorrent_(protocol)\" title=\"BitTorrent (protocol)\" class=\"mw-redirect\">BitTorrent</a> part of full range of ports used most often",
@@ -7537,7 +7537,7 @@
    },
    {
       "id":942,
-      "port":[6970, 6999],
+      "port":{ start: 6970, end: 6999 },
       "tcp":true,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/BitTorrent_(protocol)\" title=\"BitTorrent (protocol)\" class=\"mw-redirect\">BitTorrent</a> part of full range of ports used most often",
@@ -7817,7 +7817,7 @@
    },
    {
       "id":977,
-      "port":[7652, 7654],
+      "port":{ start: 7652, end: 7654 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/I2P\" title=\"I2P\">I2P</a> anonymizing overlay network",
@@ -7833,7 +7833,7 @@
    },
    {
       "id":979,
-      "port":[7656, 7660],
+      "port":{ start: 7656, end: 7660 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/I2P\" title=\"I2P\">I2P</a> anonymizing overlay network",
@@ -7865,7 +7865,7 @@
    },
    {
       "id":983,
-      "port":[7707, 7708],
+      "port":{ start: 7707, end: 7708 },
       "tcp":false,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/Killing_Floor_(2009_video_game)\" title=\"Killing Floor (2009 video game)\" class=\"mw-redirect\">Killing Floor</a>",
@@ -7945,7 +7945,7 @@
    },
    {
       "id":993,
-      "port":[7777, 7788],
+      "port":{ start: 7777, end: 7788 },
       "tcp":true,
       "udp":true,
       "desc":"Unreal Tournament series default server<sup class=\"noprint Inline-Template Template-Fact\" style=\"white-space:nowrap;\">[<i><a href=\"https://en.wikipedia.org/wiki/Wikipedia:Citation_needed\" title=\"Wikipedia:Citation needed\"><span title=\"This claim needs references to reliable sources. (March 2012)\">citation needed</span></a></i>]</sup>",
@@ -7953,7 +7953,7 @@
    },
    {
       "id":994,
-      "port":[7787, 7788],
+      "port":{ start: 7787, end: 7788 },
       "tcp":true,
       "udp":false,
       "desc":"GFI EventsManager 7 &amp; 8<sup class=\"noprint Inline-Template Template-Fact\" style=\"white-space:nowrap;\">[<i><a href=\"https://en.wikipedia.org/wiki/Wikipedia:Citation_needed\" title=\"Wikipedia:Citation needed\"><span title=\"This claim needs references to reliable sources. (March 2012)\">citation needed</span></a></i>]</sup>",
@@ -8001,7 +8001,7 @@
    },
    {
       "id":1000,
-      "port":[7937, 9936],
+      "port":{ start: 7937, end: 9936 },
       "tcp":true,
       "udp":true,
       "desc":"EMC<sup>2</sup> (Legato) Networker or Sun Solstice Backup",
@@ -8137,7 +8137,7 @@
    },
    {
       "id":1017,
-      "port":[8011, 8013],
+      "port":{ start: 8011, end: 8013 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/w/index.php?title=HTTP/TCP&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"HTTP/TCP (page does not exist)\">HTTP/TCP</a> Symon Communications Event and Query Engine<sup class=\"noprint Inline-Template Template-Fact\" style=\"white-space:nowrap;\">[<i><a href=\"https://en.wikipedia.org/wiki/Wikipedia:Citation_needed\" title=\"Wikipedia:Citation needed\"><span title=\"This claim needs references to reliable sources. (March 2012)\">citation needed</span></a></i>]</sup>",
@@ -8497,7 +8497,7 @@
    },
    {
       "id":1062,
-      "port":[8192, 8194],
+      "port":{ start: 8192, end: 8194 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/Sophos\" title=\"Sophos\">Sophos</a> Remote Management System",
@@ -8721,7 +8721,7 @@
    },
    {
       "id":1090,
-      "port":[8585, 8589],
+      "port":{ start: 8585, end: 8589 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/MapleStory\" title=\"MapleStory\">MapleStory</a> Game Server",
@@ -8769,7 +8769,7 @@
    },
    {
       "id":1096,
-      "port":[8701, 8702],
+      "port":{ start: 8701, end: 8702 },
       "tcp":false,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/w/index.php?title=SoftPerfect_Bandwidth_Manager&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"SoftPerfect Bandwidth Manager (page does not exist)\">SoftPerfect Bandwidth Manager</a>",
@@ -8809,7 +8809,7 @@
    },
    {
       "id":1101,
-      "port":[8787, 8788],
+      "port":{ start: 8787, end: 8788 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/MapleStory\" title=\"MapleStory\">MapleStory</a> CashShop Game Server",
@@ -9001,7 +9001,7 @@
    },
    {
       "id":1125,
-      "port":[8888, 8889],
+      "port":{ start: 8888, end: 8889 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/MAMP\" title=\"MAMP\">MAMP</a> Server",
@@ -9201,7 +9201,7 @@
    },
    {
       "id":1150,
-      "port":[9050, 9051],
+      "port":{ start: 9050, end: 9051 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/Tor_(anonymity_network)\" title=\"Tor (anonymity network)\">Tor</a>",
@@ -9889,7 +9889,7 @@
    },
    {
       "id":1236,
-      "port":[10201, 10204],
+      "port":{ start: 10201, end: 10204 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/FRISK_Software_International\" title=\"FRISK Software International\">FRISK Software International</a>'s <i>f-protd</i> virus scanning daemon for Unix platforms<sup id=\"cite_ref-autogenerated2_162-1\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-autogenerated2-162\">[162]</a></sup>",
@@ -10201,7 +10201,7 @@
    },
    {
       "id":1275,
-      "port":[12998, 12999],
+      "port":{ start: 12998, end: 12999 },
       "tcp":false,
       "udp":true,
       "desc":"<a rel=\"nofollow\" class=\"external text\" href=\"http://www.takenaka.co.jp/\">Takenaka RDI</a> Mirror World on SecondLife<sup class=\"noprint Inline-Template Template-Fact\" style=\"white-space:nowrap;\">[<i><a href=\"https://en.wikipedia.org/wiki/Wikipedia:Citation_needed\" title=\"Wikipedia:Citation needed\"><span title=\"This claim needs references to reliable sources. (March 2012)\">citation needed</span></a></i>]</sup>",
@@ -10217,7 +10217,7 @@
    },
    {
       "id":1277,
-      "port":[13000, 13050],
+      "port":{ start: 13000, end: 13050 },
       "tcp":false,
       "udp":true,
       "desc":"<a rel=\"nofollow\" class=\"external text\" href=\"http://wiki.secondlife.com/wiki/Authentication_Flow\">Linden Lab</a> viewer to sim on SecondLife<sup class=\"noprint Inline-Template Template-Fact\" style=\"white-space:nowrap;\">[<i><a href=\"https://en.wikipedia.org/wiki/Wikipedia:Citation_needed\" title=\"Wikipedia:Citation needed\"><span title=\"This claim needs references to reliable sources. (March 2012)\">citation needed</span></a></i>]</sup>",
@@ -10241,7 +10241,7 @@
    },
    {
       "id":1280,
-      "port":[13195, 13196],
+      "port":{ start: 13195, end: 13196 },
       "tcp":true,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/w/index.php?title=Ontolux&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ontolux (page does not exist)\">Ontolux</a> <a href=\"https://en.wikipedia.org/w/index.php?title=Ontolux_2D&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ontolux 2D (page does not exist)\">Ontolux 2D</a>",
@@ -10249,7 +10249,7 @@
    },
    {
       "id":1281,
-      "port":[13337, 13340],
+      "port":{ start: 13337, end: 13340 },
       "tcp":true,
       "udp":true,
       "desc":"ÆtherNet peer-to-peer networking<sup class=\"noprint Inline-Template Template-Fact\" style=\"white-space:nowrap;\">[<i><a href=\"https://en.wikipedia.org/wiki/Wikipedia:Citation_needed\" title=\"Wikipedia:Citation needed\"><span title=\"This claim needs references to reliable sources. (March 2012)\">citation needed</span></a></i>]</sup>",
@@ -11065,7 +11065,7 @@
    },
    {
       "id":1383,
-      "port":[25828, 25840],
+      "port":{ start: 25828, end: 25840 },
       "tcp":true,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/w/index.php?title=DarknessBlade_Games&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"DarknessBlade Games (page does not exist)\">DarknessBlade Network.</a>",
@@ -11121,7 +11121,7 @@
    },
    {
       "id":1390,
-      "port":[26900, 26901],
+      "port":{ start: 26900, end: 26901 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/CCP_Games\" title=\"CCP Games\">CCP</a>'s <a href=\"https://en.wikipedia.org/wiki/EVE_Online\" title=\"EVE Online\" class=\"mw-redirect\">EVE Online</a> Online gaming MMORPG",
@@ -11137,7 +11137,7 @@
    },
    {
       "id":1392,
-      "port":[27000, 27030],
+      "port":{ start: 27000, end: 27030 },
       "tcp":false,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/Steam_(software)\" title=\"Steam (software)\">Steam Client</a>",
@@ -11161,7 +11161,7 @@
    },
    {
       "id":1395,
-      "port":[27000, 27009],
+      "port":{ start: 27000, end: 27009 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/FlexNet_Publisher\" title=\"FlexNet Publisher\">FlexNet Publisher</a>'s License server (from the range of default ports)",
@@ -11169,7 +11169,7 @@
    },
    {
       "id":1396,
-      "port":[27014, 27050],
+      "port":{ start: 27014, end: 27050 },
       "tcp":true,
       "udp":false,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/Steam_(software)\" title=\"Steam (software)\">Steam Downloads</a>",
@@ -11177,7 +11177,7 @@
    },
    {
       "id":1397,
-      "port":[27500, 27900],
+      "port":{ start: 27500, end: 27900 },
       "tcp":false,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/Id_Software\" title=\"Id Software\">id Software</a>'s <i><a href=\"https://en.wikipedia.org/wiki/QuakeWorld\" title=\"QuakeWorld\">QuakeWorld</a></i>",
@@ -11193,7 +11193,7 @@
    },
    {
       "id":1399,
-      "port":[27901, 27910],
+      "port":{ start: 27901, end: 27910 },
       "tcp":false,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/Id_Software\" title=\"Id Software\">id Software</a>'s <i><a href=\"https://en.wikipedia.org/wiki/Quake_II\" title=\"Quake II\">Quake II</a></i> master server",
@@ -11209,7 +11209,7 @@
    },
    {
       "id":1401,
-      "port":[27960, 27969],
+      "port":{ start: 27960, end: 27969 },
       "tcp":false,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/Activision\" title=\"Activision\">Activision</a>'s <i><a href=\"https://en.wikipedia.org/wiki/Wolfenstein:_Enemy_Territory\" title=\"Wolfenstein: Enemy Territory\">Enemy Territory</a></i> and <a href=\"https://en.wikipedia.org/wiki/Id_Software\" title=\"Id Software\">id Software</a>'s <i><a href=\"https://en.wikipedia.org/wiki/Quake_III_Arena\" title=\"Quake III Arena\">Quake III Arena</a></i>, <i>Quake III</i> and <i><a href=\"https://en.wikipedia.org/wiki/Quake_Live\" title=\"Quake Live\">Quake Live</a></i> and some ioquake3 derived games, such as Urban Terror (OpenArena incoming)",
@@ -11257,7 +11257,7 @@
    },
    {
       "id":1407,
-      "port":[28801, 28802],
+      "port":{ start: 28801, end: 28802 },
       "tcp":false,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/Red_Eclipse\" title=\"Red Eclipse\" class=\"mw-redirect\">Red Eclipse</a> (Cube 2 derivative) default ports<sup id=\"cite_ref-184\" class=\"reference\"><a href=\"https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-184\">[184]</a></sup>",
@@ -11369,7 +11369,7 @@
    },
    {
       "id":1421,
-      "port":[31820, 31829],
+      "port":{ start: 31820, end: 31829 },
       "tcp":false,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/w/index.php?title=SyFlo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"SyFlo (page does not exist)\">SyFlo</a> SyFlo license manager",
@@ -11465,7 +11465,7 @@
    },
    {
       "id":1433,
-      "port":[33434, 33534],
+      "port":{ start: 33434, end: 33534 },
       "tcp":true,
       "udp":true,
       "desc":"<a href=\"https://en.wikipedia.org/wiki/Traceroute\" title=\"Traceroute\">traceroute</a>",
